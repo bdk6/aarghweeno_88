@@ -1,0 +1,346 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L bdk_Micro:Atmega8_dip U?
+U 1 1 62CB6314
+P 5700 1850
+F 0 "U?" H 5700 2015 50  0000 C CNN
+F 1 "Atmega8_dip" H 5700 1924 50  0000 C CNN
+F 2 "" H 5700 1850 50  0001 C CNN
+F 3 "" H 5700 1850 50  0001 C CNN
+	1    5700 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CB654E
+P 7550 1000
+F 0 "C?" H 7642 1046 50  0000 L CNN
+F 1 "C_Small" H 7642 955 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 7550 1000 50  0001 C CNN
+F 3 "~" H 7550 1000 50  0001 C CNN
+	1    7550 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Crystal_Small Y?
+U 1 1 62CB88FB
+P 2300 2050
+F 0 "Y?" H 2300 2275 50  0000 C CNN
+F 1 "Crystal_Small" H 2300 2184 50  0000 C CNN
+F 2 "Crystal:Crystal_HC49-U_Vertical" H 2300 2050 50  0001 C CNN
+F 3 "~" H 2300 2050 50  0001 C CNN
+	1    2300 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC25EA
+P 8300 1050
+F 0 "C?" H 8392 1096 50  0000 L CNN
+F 1 "C_Small" H 8392 1005 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 8300 1050 50  0001 C CNN
+F 3 "~" H 8300 1050 50  0001 C CNN
+	1    8300 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC261E
+P 8800 1050
+F 0 "C?" H 8892 1096 50  0000 L CNN
+F 1 "C_Small" H 8892 1005 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 8800 1050 50  0001 C CNN
+F 3 "~" H 8800 1050 50  0001 C CNN
+	1    8800 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC2648
+P 9300 1050
+F 0 "C?" H 9392 1096 50  0000 L CNN
+F 1 "C_Small" H 9392 1005 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 9300 1050 50  0001 C CNN
+F 3 "~" H 9300 1050 50  0001 C CNN
+	1    9300 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC2678
+P 9750 1050
+F 0 "C?" H 9842 1096 50  0000 L CNN
+F 1 "C_Small" H 9842 1005 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 9750 1050 50  0001 C CNN
+F 3 "~" H 9750 1050 50  0001 C CNN
+	1    9750 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC26A4
+P 10300 1100
+F 0 "C?" H 10392 1146 50  0000 L CNN
+F 1 "C_Small" H 10392 1055 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 10300 1100 50  0001 C CNN
+F 3 "~" H 10300 1100 50  0001 C CNN
+	1    10300 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC26D8
+P 10850 1100
+F 0 "C?" H 10942 1146 50  0000 L CNN
+F 1 "C_Small" H 10942 1055 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 10850 1100 50  0001 C CNN
+F 3 "~" H 10850 1100 50  0001 C CNN
+	1    10850 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC270A
+P 7550 1400
+F 0 "C?" H 7642 1446 50  0000 L CNN
+F 1 "C_Small" H 7642 1355 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 7550 1400 50  0001 C CNN
+F 3 "~" H 7550 1400 50  0001 C CNN
+	1    7550 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC2784
+P 8000 1400
+F 0 "C?" H 8092 1446 50  0000 L CNN
+F 1 "C_Small" H 8092 1355 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 8000 1400 50  0001 C CNN
+F 3 "~" H 8000 1400 50  0001 C CNN
+	1    8000 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC27BC
+P 8350 1400
+F 0 "C?" H 8442 1446 50  0000 L CNN
+F 1 "C_Small" H 8442 1355 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 8350 1400 50  0001 C CNN
+F 3 "~" H 8350 1400 50  0001 C CNN
+	1    8350 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC27EE
+P 8800 1450
+F 0 "C?" H 8892 1496 50  0000 L CNN
+F 1 "C_Small" H 8892 1405 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 8800 1450 50  0001 C CNN
+F 3 "~" H 8800 1450 50  0001 C CNN
+	1    8800 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC282E
+P 9300 1450
+F 0 "C?" H 9392 1496 50  0000 L CNN
+F 1 "C_Small" H 9392 1405 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 9300 1450 50  0001 C CNN
+F 3 "~" H 9300 1450 50  0001 C CNN
+	1    9300 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC286A
+P 9750 1400
+F 0 "C?" H 9842 1446 50  0000 L CNN
+F 1 "C_Small" H 9842 1355 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 9750 1400 50  0001 C CNN
+F 3 "~" H 9750 1400 50  0001 C CNN
+	1    9750 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC28A8
+P 10300 1400
+F 0 "C?" H 10392 1446 50  0000 L CNN
+F 1 "C_Small" H 10392 1355 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 10300 1400 50  0001 C CNN
+F 3 "~" H 10300 1400 50  0001 C CNN
+	1    10300 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC28EA
+P 10850 1400
+F 0 "C?" H 10942 1446 50  0000 L CNN
+F 1 "C_Small" H 10942 1355 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 10850 1400 50  0001 C CNN
+F 3 "~" H 10850 1400 50  0001 C CNN
+	1    10850 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 62CC292E
+P 7550 1750
+F 0 "C?" H 7642 1796 50  0000 L CNN
+F 1 "C_Small" H 7642 1705 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 7550 1750 50  0001 C CNN
+F 3 "~" H 7550 1750 50  0001 C CNN
+	1    7550 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small_US R?
+U 1 1 62CC2B01
+P 7550 2650
+F 0 "R?" H 7618 2696 50  0000 L CNN
+F 1 "R_Small_US" H 7618 2605 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" H 7550 2650 50  0001 C CNN
+F 3 "~" H 7550 2650 50  0001 C CNN
+	1    7550 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC60F6
+P 7500 4800
+F 0 "R?" H 7568 4846 50  0000 L CNN
+F 1 "R_.25W_tht" H 7568 4755 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" H 7500 4800 50  0001 C CNN
+F 3 "~" H 7500 4800 50  0001 C CNN
+	1    7500 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC61AE
+P 8250 4800
+F 0 "R?" H 8318 4846 50  0000 L CNN
+F 1 "R_.25W_tht" H 8318 4755 50  0000 L CNN
+F 2 "" H 8250 4800 50  0001 C CNN
+F 3 "~" H 8250 4800 50  0001 C CNN
+	1    8250 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC6202
+P 8900 4800
+F 0 "R?" H 8968 4846 50  0000 L CNN
+F 1 "R_.25W_tht" H 8968 4755 50  0000 L CNN
+F 2 "" H 8900 4800 50  0001 C CNN
+F 3 "~" H 8900 4800 50  0001 C CNN
+	1    8900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC625A
+P 9350 4800
+F 0 "R?" H 9418 4846 50  0000 L CNN
+F 1 "R_.25W_tht" H 9418 4755 50  0000 L CNN
+F 2 "" H 9350 4800 50  0001 C CNN
+F 3 "~" H 9350 4800 50  0001 C CNN
+	1    9350 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC62A6
+P 9750 4800
+F 0 "R?" H 9818 4846 50  0000 L CNN
+F 1 "R_.25W_tht" H 9818 4755 50  0000 L CNN
+F 2 "" H 9750 4800 50  0001 C CNN
+F 3 "~" H 9750 4800 50  0001 C CNN
+	1    9750 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC62F2
+P 10150 4800
+F 0 "R?" H 10218 4846 50  0000 L CNN
+F 1 "R_.25W_tht" H 10218 4755 50  0000 L CNN
+F 2 "" H 10150 4800 50  0001 C CNN
+F 3 "~" H 10150 4800 50  0001 C CNN
+	1    10150 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC634E
+P 10600 4800
+F 0 "R?" H 10668 4846 50  0000 L CNN
+F 1 "R_.25W_tht" H 10668 4755 50  0000 L CNN
+F 2 "" H 10600 4800 50  0001 C CNN
+F 3 "~" H 10600 4800 50  0001 C CNN
+	1    10600 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC63B2
+P 7500 5200
+F 0 "R?" H 7568 5246 50  0000 L CNN
+F 1 "R_.25W_tht" H 7568 5155 50  0000 L CNN
+F 2 "" H 7500 5200 50  0001 C CNN
+F 3 "~" H 7500 5200 50  0001 C CNN
+	1    7500 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC6460
+P 8250 5150
+F 0 "R?" H 8318 5196 50  0000 L CNN
+F 1 "R_.25W_tht" H 8318 5105 50  0000 L CNN
+F 2 "" H 8250 5150 50  0001 C CNN
+F 3 "~" H 8250 5150 50  0001 C CNN
+	1    8250 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC64CC
+P 8900 5150
+F 0 "R?" H 8968 5196 50  0000 L CNN
+F 1 "R_.25W_tht" H 8968 5105 50  0000 L CNN
+F 2 "" H 8900 5150 50  0001 C CNN
+F 3 "~" H 8900 5150 50  0001 C CNN
+	1    8900 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L BDK_Passive:R_.25W_tht R?
+U 1 1 62CC652E
+P 9550 5150
+F 0 "R?" H 9618 5196 50  0000 L CNN
+F 1 "R_.25W_tht" H 9618 5105 50  0000 L CNN
+F 2 "" H 9550 5150 50  0001 C CNN
+F 3 "~" H 9550 5150 50  0001 C CNN
+	1    9550 5150
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
