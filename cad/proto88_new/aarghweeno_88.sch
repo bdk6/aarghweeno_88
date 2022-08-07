@@ -5,8 +5,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 2
 Title "ATMega8/88/168/328 Proto Board"
-Date "2022-07-17"
-Rev "0"
+Date "2022-08-07"
+Rev "1.1"
 Comp "Small Time Electronics"
 Comment1 ""
 Comment2 ""
@@ -62,7 +62,7 @@ L BDK_Passive:C_Small_5mm_disc C3
 U 1 1 62D2ACAE
 P 2700 1900
 F 0 "C3" H 2792 1946 50  0000 L CNN
-F 1 ".33" H 2792 1855 50  0000 L CNN
+F 1 "0.1" H 2792 1855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 2700 1900 50  0001 C CNN
 F 3 "~" H 2700 1900 50  0001 C CNN
 	1    2700 1900
